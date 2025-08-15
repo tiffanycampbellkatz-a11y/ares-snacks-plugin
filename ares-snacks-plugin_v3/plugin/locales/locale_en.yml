@@ -1,0 +1,26 @@
+
+en:
+  snacks:
+    error: "Something went wrong."
+    invalid_recipient: "%{name} not found."
+    invalid_snack: "That snack isn't recognized."
+    cant_give_yourself: "You cannot give yourself a snack."
+    snack_given: "You give %{name} a %{snack}."
+    snack_give_emit: "%{name} gives %{target} %{snack} — %{flavor}"
+    snack_received: "%{name} has given you %{snack} — %{flavor}"
+    snack_eaten_you: "You enjoy %{snack}. It %{flavor}."
+    snack_eaten_emit: "%{name} enjoys %{snack}. It %{flavor}."
+    snack_stored: "You store %{snack}. It %{flavor}."
+    store_not_allowed: "Storing your own snacks has been disabled on this game."
+    no_snack_in_inventory: "You don't have any %{snack} to eat."
+    inventory_empty: "Your snack stash is empty."
+
+    invalid_room: "You must be in a room to do that."
+    invalid_scene: "Scene not found."
+    no_recipients_here: "There is nobody else here to give snacks to."
+    no_recipients_scene: "There is nobody else in the scene to give snacks to."
+    snack_given_here: "You give %{snack} to %{count} people here."
+    snack_give_here_emit: "%{name} shares %{snack} with everyone here — %{flavor}"
+    snack_give_scene_emit: "%{name} shares %{snack} with the scene — %{flavor}"
+    snack_given_scene: "You give %{snack} to %{count} people in scene %{scene}."
+    migrate_done: "Migration complete. Total snacks created: %{total}."
