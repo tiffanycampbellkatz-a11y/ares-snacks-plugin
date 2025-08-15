@@ -1,1 +1,0 @@
-# ares-snacks-plugin
